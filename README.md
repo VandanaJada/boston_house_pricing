@@ -13,4 +13,5 @@ Create a New Environment
 conda create -p venv python==3.7 -y
 ```
 
+![alt text](image.png)
 
